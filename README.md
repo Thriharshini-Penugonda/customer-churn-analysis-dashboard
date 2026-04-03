@@ -1,4 +1,5 @@
-# 📊 Customer Churn Analysis Dashboard (Excel Project)
+ # 📊 Customer Churn Analysis Dashboard
+ An interactive Excel dashboard analyzing customer churn patterns, revenue loss, and contract-based risk factors.
 ![Dashboard](Dashboard.png.jpeg)
 ## 🔍 Project Overview
 
@@ -7,6 +8,11 @@ This project analyzes customer churn behavior using Excel and provides actionabl
 
 * Telco Customer Churn Dataset (~6000 records)
 
+## 📁 Files
+
+- Customer_Churn_Analysis.xlsx – Main dashboard file
+- Dashboard.png – Dashboard preview
+- 
 ## 🛠 Tools Used
 
 * Microsoft Excel / WPS Office
@@ -15,10 +21,24 @@ This project analyzes customer churn behavior using Excel and provides actionabl
 
 ## 📈 Key Insights
 
-* Month-to-month customers show highest churn
-* Revenue loss due to churn ≈ ₹28.6 Lakhs
-* Long-term contracts reduce churn significantly
+- Customers with month-to-month contracts have the highest churn rate
+- Estimated revenue loss due to churn is ₹28.6 Lakhs
+- Long-term contracts significantly reduce churn risk
+ 
+  ## 🚀 How to Use
 
+- Open the Excel file
+- Navigate to the Dashboard sheet
+- Use filters (Contract, Payment Method, Internet Service)
+- Analyze churn trends and revenue loss
+
+ ## 🛠 Skills Demonstrated
+
+- Data Analysis
+- Excel Pivot Tables
+- Data Visualization
+- Dashboard Design
+  
 ## 📊 Dashboard Features
 
 * Churn distribution by contract type

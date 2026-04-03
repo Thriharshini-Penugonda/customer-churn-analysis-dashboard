@@ -1,6 +1,6 @@
  # 📊 Customer Churn Analysis Dashboard
  An interactive Excel dashboard analyzing customer churn patterns, revenue loss, and contract-based risk factors.
-![Dashboard](Dashboard.png.jpeg)
+![Dashboard](dashboard.png)
 ## 🔍 Project Overview
 
 This project analyzes customer churn behavior using Excel and provides actionable insights into customer retention and revenue impact.
